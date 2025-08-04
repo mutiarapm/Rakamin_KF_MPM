@@ -1,6 +1,6 @@
 # Rakamin_KF_MPM
 Query BigQuery dan Dashboard Looker - Project Internship Kimia Farma
-# 📊 Digital User Churn Dashboard - Bank Muamalat
+# 📊 Perfomance Dashboard - Kimia Farma
 
 Project ini merupakan bagian dari tugas Project-Based Internship di Kimia Farma, yang bertujuan untuk menganalisis performa kinerja bisnis Kimia Farma
 ---
